@@ -1,2 +1,2 @@
 # Test_repository
-This is the demo
+This is the demonstration of the repository testing
